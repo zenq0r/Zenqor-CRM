@@ -1,8 +1,9 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyDJj1Ps8OQcrvJm18pIi9cGL14CmbZbzfM",
-    authDomain: "zenqor-crm.firebaseapp.com",
-    projectId: "zenqor-crm",
-    storageBucket: "zenqor-crm.firebasestorage.app",
-    messagingSenderId: "1056847970162",
-    appId: "1:1056847970162:web:36592162bad31ed54967eb"
+    apiKey: "AIzaSyB2YrERSHUhTvl_fUkxuSBRCGb0z2iIo94",
+    authDomain: "zenqor-tech.firebaseapp.com",
+    projectId: "zenqor-tech",
+    storageBucket: "zenqor-tech.firebasestorage.app",
+    messagingSenderId: "336951974639",
+    appId: "1:336951974639:web:c6015252f310388df9191a",
+    measurementId: "G-3PS9JT5P15"
 };
