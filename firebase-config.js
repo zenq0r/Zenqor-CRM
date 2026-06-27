@@ -1,3 +1,4 @@
+// fail: firebase-config.js
 export const firebaseConfig = {
     apiKey: "AIzaSyB2YrERSHUhTvl_fUkxuSBRCGb0z2iIo94",
     authDomain: "zenqor-tech.firebaseapp.com",
